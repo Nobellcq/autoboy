@@ -1,8 +1,10 @@
 ## how to install this?
 
+```python
 pip install autoboy
 
 from autoboy import *
+```
 
 ## a simple tool for watching the ordinate that you want to know, it will display instantly the ordinate where your mouse.
 
@@ -82,6 +84,7 @@ example: hotkey("ctrl","a")， 直接输入你想要按下键的str即可
 
 ### 内置的字典表
 
+```
   'backspace':0x08,
     'tab':0x09,
     'clear':0x0C,
@@ -228,20 +231,11 @@ example: hotkey("ctrl","a")， 直接输入你想要按下键的str即可
     ']':0xDD,
     "'":0xDE,
     '`':0xC0}
-
-
-
-### 
-
+```
 
 
 
 
-
-
-
-
-### 
 
 
 
